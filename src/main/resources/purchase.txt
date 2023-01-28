@@ -1,0 +1,4 @@
+Pear,3
+Pear,8
+Orange, 25
+Apple, 12
